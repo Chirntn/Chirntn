@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chirantan Sahoo
+- ####👋 Hi, I’m Chirantan Sahoo
 - 👀 I’m interested in Software Development and open source 
 - 🌱 I’m currently learning Java nand DSA, and more..
 - Tech stack I'm familiar with - Java, c, Python and DSA.
